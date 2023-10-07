@@ -71,6 +71,7 @@ N'hésitez pas à me contacter pour discuter de projets ou d'opportunités de co
 
 - Email : [chermann.moussavou@gmail.com](mailto:chermann.moussavou@gmail.com)
 - GitHub : [Chermann KING](https://github.com/Chermann-KING/)
+- Vercel : [Chermann KING](https://vercel.com/chermann-king)
 - LinkedIn : [Hermann MOUSSAVOU](https://www.linkedin.com/in/hermann-moussavou/)
 
 Merci de prendre le temps de consulter ma présentation, et j'espère avoir l'occasion de travailler avec vous à l'avenir !
