@@ -17,7 +17,7 @@ Enthousiaste et talentueux, avec un amour profond pour le développement front-e
 
 - Expérience dans l'utilisation de préprocesseurs CSS tels que SASS ou LESS.
 - Connaissance des concepts de design responsif et de techniques telles que Flexbox et Grid.
-- Expérience dans l'utilisation de frameworks CSS tels que Bootstrap ou Styled-Components.
+- Expérience dans l'utilisation de frameworks CSS tels que Bootstrap, Tailwind CSS ou Styled-Components.
 
 ### <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/js.png" alt="JavaScript logo" width="40"> JavaScript
 
