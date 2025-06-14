@@ -1,77 +1,140 @@
-# Salut les gens 👋 je suis Chermann, développeur front-end 😁
+# Salut ! 👋 Je suis Hermann MOUSSAVOU
 
+<div align="center">
 
-## 📂 À propos de moi
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+Full+Stack;Designer+UI%2FUX;Consultant+Digital;Créateur+d'expériences+numériques)
 
-Enthousiaste et talentueux, avec un amour profond pour le développement front-end et un dévouement constant à la maîtrise des technologies telles que HTML, CSS, JavaScript, React, Dart et Flutter, je suis passionné par la création d'interfaces utilisateur qui allient beauté et fonctionnalité. Mon expérience en conception graphique et prototypage avec des outils tels que Photoshop, Illustrator, Figma, ainsi qu'en WordPress et Elementor, enrichit ma palette de compétences et me permet d'apporter une touche artistique à chaque projet. Guidé par ma passion pour le design élégant et les expériences utilisateur fluides, je m'engage à développer des solutions web qui captivent les utilisateurs et les transportent dans un monde numérique exceptionnel.
+[![Portfolio](https://img.shields.io/badge/Portfolio-hermann--moussavou.com-3B82F6?style=for-the-badge&logo=vercel)](https://hermann-moussavou.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hermann%20MOUSSAVOU-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hermann-moussavou/)
+[![Email](https://img.shields.io/badge/Email-contact@hermann--moussavou.com-EA4335?style=for-the-badge&logo=gmail)](mailto:contact@hermann-moussavou.com)
 
-## 💻 Compétences techniques
+</div>
 
-### <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/html.png" alt="HTML logo" width="40"> HTML
+## 🚀 À propos de moi
 
-- Maîtrise des balises HTML5 et de leur utilisation appropriée.
-- Utilisation des attributs ARIA pour améliorer l'accessibilité.
-- Connaissance des bonnes pratiques en matière de SEO.
+**Développeur Full Stack passionné** et **Designer UI/UX**, je transforme vos idées en solutions digitales performantes et scalables. Avec une expertise avancée en front-end et des compétences solides en back-end, je conçois des applications web modernes qui allient beauté, fonctionnalité et performance.
 
-### <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/css.png" alt="CSS logo" width="40"> CSS
+🔥 **Ce qui me définit :**
+- 💡 **Innovant** : Toujours à la pointe des dernières technologies (React 19, Next.js 15...)
+- 🎨 **Créatif** : Designer UI/UX avec une approche centrée utilisateur
+- 🤝 **Collaboratif** : Approche pédagogique et accompagnement client de qualité
+- ⚡ **Performant** : Spécialisé dans les optimisations et l'expérience développeur
 
-- Expérience dans l'utilisation de préprocesseurs CSS tels que SASS ou LESS.
-- Connaissance des concepts de design responsif et de techniques telles que Flexbox et Grid.
-- Expérience dans l'utilisation de frameworks CSS tels que Bootstrap, Tailwind CSS ou Styled-Components.
+## 🛠️ Stack Technique
 
-### <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/js.png" alt="JavaScript logo" width="40"> JavaScript
+### Frontend
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
 
-- Compréhension des concepts clés tels que les fermetures, les prototypes et les promesses.
-- Expérience avec les dernières fonctionnalités de JavaScript (ES6+).
-- Connaissance des bibliothèques et frameworks courants, tels que jQuery.
+### Mobile
+<p align="left">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
 
-### <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/react.png" alt="React logo" width="40"> React
+### Design & Outils
+<p align="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
+</p>
 
-- Expérience dans la création d'applications React à l'aide de composants fonctionnels et de hooks.
-- Familiarité avec le routage côté client à l'aide de React Router.
-- Bonne compréhension des concepts clés tels que le flux unidirectionnel de données, le cycle de vie des composants et l'état local.
+### Backend & Database
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
 
-### <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/dart.png" alt="Dart logo" width="40"> Dart
+### DevOps & Déploiement
+<p align="left">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-- Connaissance approfondie du langage de programmation Dart et de ses fonctionnalités.
-- Expérience avec la gestion asynchrone des tâches à l'aide de `async` et `await`.
-- Compréhension des concepts clés tels que les mixins, les isolates et les streams.
+## 📊 Statistiques GitHub
 
-### <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/flutter.png" alt="Flutter logo" width="40"> Flutter
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chermann-KING&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chermann-KING&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-- Expérience dans la création d'applications mobiles multiplateformes avec Flutter.
-- Maîtrise des widgets Flutter et du système de composition.
-- Familiarité avec les packages Flutter populaires et les outils de développement.
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chermann-KING&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-### Conception graphique <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/photoshop.png" alt="Photoshop logo" width="30"> <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/illustrator.png" alt="Illustrator logo" width="30"> <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/after-effects.png" alt="After Effects logo" width="30"> <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/premiere-pro.png" alt="Premiere Pro logo" width="30"> et prototypage <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/figma.png" alt="Figma logo" width="30"> <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/xd.png" alt="XD logo" width="30">
+## 🏆 Réalisations & Expertise
 
-- Maîtrise des outils de conception graphique tels que Adobe Photoshop et Illustrator pour créer des éléments visuels et des maquettes.
-- Expérience en conception d'interfaces utilisateur et en prototypage à l'aide de Figma.
-- Compréhension des principes de design UX/UI et capacité à transformer les idées en prototypes fonctionnels.
+- 🚀 **Développement Full Stack** avec Next.js 15, React 19 et Angular 19
+- 🎨 **Design d'interfaces** modernes et accessibles
+- 📱 **Applications mobiles** cross-platform avec React Native, Ionic et Flutter
+- ⚡ **Optimisations avancées** et performance web
+- 🤝 **Accompagnement client** et approche pédagogique
+- 📝 **Création de contenu** technique et veille technologique
 
-### <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/wordpress.png" alt="WordPress logo" width="40"> WordPress
+## 📝 Derniers Articles
 
-- Expérience dans la création et la gestion de sites web avec WordPress.
-- Connaissance approfondie des thèmes et des plugins WordPress.
-- Expérience dans la personnalisation de sites WordPress avec du code personnalisé.
+<!-- BLOG-POST-LIST:START -->
+- [React 19 : Les nouveautés révolutionnaires qui changent la donne](https://hermann-moussavou.com/blog/react-19-nouveautes-revolutionnaires)
+- [IA 2025 : Les modèles qui révolutionnent notre quotidien](https://hermann-moussavou.com/blog/ia-2025-revolution)
+- [Mon Portfolio Next.js 15 : 6 mois de développement, 10+ défis techniques résolus](https://hermann-moussavou.com/blog/portfolio-nextjs-15-defis-techniques)
+<!-- BLOG-POST-LIST:END -->
 
-### <img src="https://github.com/Chermann-KING/Chermann-KING/blob/main/assets/elementor.png" alt="Elementor logo" width="40"> Elementor
+➡️ [Voir tous mes articles](https://hermann-moussavou.com/blog)
 
-- Maîtrise du constructeur de pages Elementor pour la création de sites web personnalisés et responsive.
-- Expérience dans l'utilisation des widgets Elementor et l'intégration de plugins tiers.
-- Capacité à créer des modèles et des sections réutilisables pour optimiser le processus de développement.
+## 💬 Ce qu'ils disent de moi
 
-## 🔭 Projets réalisés
+> *"Hermann est un professionnel alliant expertise technique et pédagogie. Son approche proactive garantit des livrables toujours en temps et en heure."*  
+> **— Laetitia MAKITA NGADI, Founder & CEO chez Semen Africa Consulting**
 
-Mise à jour du portfolio encours 😉
+> *"He possesses a deep understanding of both web and mobile app development and is skilled in a variety of technologies. Hermann is not just a talented individual; he's also a fantastic team player."*  
+> **— Germain Ndouanis, Founder chez NRL SOLUTIONS**
 
-## 📫 Comment me joindre
+## 🎯 Objectifs 2025
 
-N'hésitez pas à me contacter pour discuter de projets ou d'opportunités de collaboration. Vous pouvez me trouver sur les plateformes suivantes :
+- 🔧 Maîtriser les **Server Components** et **Server Actions** de React 19
+- 🤖 Intégrer l'**IA** dans mes projets de développement
+- 🌍 Contribuer à des projets **open source** significatifs
+- 📚 Partager mes connaissances via **articles** et **formations**
 
-- Email : [chermann.moussavou@gmail.com](mailto:chermann.moussavou@gmail.com)
-- GitHub : [Chermann KING](https://github.com/Chermann-KING/)
-- Vercel : [Chermann KING](https://vercel.com/chermann-king)
-- LinkedIn : [Hermann MOUSSAVOU](https://www.linkedin.com/in/hermann-moussavou/)
+## 📈 Activité GitHub
 
-Merci de prendre le temps de consulter ma présentation, et j'espère avoir l'occasion de travailler avec vous à l'avenir !
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 📫 Me contacter
+
+<div align="center">
+
+**Prêt à transformer vos idées en réalité digitale ?**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hermann--moussavou.com-blue?style=for-the-badge)](https://hermann-moussavou.com)
+[![Email](https://img.shields.io/badge/📧_Email-contact@hermann--moussavou.com-red?style=for-the-badge)](mailto:contact@hermann-moussavou.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Hermann_MOUSSAVOU-blue?style=for-the-badge)](https://www.linkedin.com/in/hermann-moussavou/)
+
+</div>
+
+---
+
+<div align="center">
+<i>⭐ N'hésitez pas à starred mes repos si vous les trouvez intéressants !</i>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=Chermann-KING&color=3B82F6&style=for-the-badge" alt="Profile views" />
+</div>
