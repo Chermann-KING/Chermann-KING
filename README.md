@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hermann--moussavou.com-3B82F6?style=for-the-badge&logo=vercel)](https://hermann-moussavou.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hermann%20MOUSSAVOU-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hermann-moussavou/)
-[![Email](https://img.shields.io/badge/Email-contact@hermann--moussavou.com-EA4335?style=for-the-badge&logo=gmail)](mailto:contact@hermann-moussavou.com)
 
 </div>
 
