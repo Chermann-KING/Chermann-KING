@@ -14,7 +14,7 @@
 **Développeur Full Stack passionné** et **Designer UI/UX**, je transforme vos idées en solutions digitales performantes et scalables. Avec une expertise avancée en front-end et des compétences solides en back-end, je conçois des applications web modernes qui allient beauté, fonctionnalité et performance.
 
 🔥 **Ce qui me définit :**
-- 💡 **Innovant** : Toujours à la pointe des dernières technologies (React 19, Next.js 15...)
+- 💡 **Innovant** : Toujours à la pointe des dernières technologies
 - 🎨 **Créatif** : Designer UI/UX avec une approche centrée utilisateur
 - 🤝 **Collaboratif** : Approche pédagogique et accompagnement client de qualité
 - ⚡ **Performant** : Spécialisé dans les optimisations et l'expérience développeur
@@ -81,7 +81,7 @@
 
 ## 🏆 Réalisations & Expertise
 
-- 🚀 **Développement Full Stack** avec Next.js 15, React 19 et Angular 19
+- 🚀 **Développement Full Stack** avec Next.js 16, React 19, Angular 19 et NestJS
 - 🎨 **Design d'interfaces** modernes et accessibles
 - 📱 **Applications mobiles** cross-platform avec React Native, Ionic et Flutter
 - ⚡ **Optimisations avancées** et performance web
@@ -125,7 +125,6 @@
 **Prêt à transformer vos idées en réalité digitale ?**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hermann--moussavou.com-blue?style=for-the-badge)](https://hermann-moussavou.com)
-[![Email](https://img.shields.io/badge/📧_Email-contact@hermann--moussavou.com-red?style=for-the-badge)](mailto:contact@hermann-moussavou.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Hermann_MOUSSAVOU-blue?style=for-the-badge)](https://www.linkedin.com/in/hermann-moussavou/)
 
 </div>
